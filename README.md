@@ -1,11 +1,24 @@
-# Diabetes Predictive Analysis
-A diabetes prediction dataset from Kaggle (url=https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) was analyzed and visualized using various statistical methods and matplotlib.pyplot. 
+## Diabetes Predictive Analysis
 
-The relationships of the variables of ID, gender, age, smoking history, BMI, HbA1c level, blood glucose level, diabetes diagnosis, hypertension, and heart disease were correlated and compared to see which factors influence the development of diabetes, hypertension, and heart disease, and to see which factors are most accurate at predicting diabetes.
+### Overview
+This project analyzed a diabetes prediction dataset obtained from Kaggle. The dataset includes variables such as ID, gender, age, smoking history, BMI, HbA1c level, blood glucose level, diabetes diagnosis, hypertension, and heart disease. The goal was to identify factors influencing the development of diabetes, hypertension, and heart disease, and determine which variables are most accurate at predicting diabetes.
 
-Various statistical measures were used including hypothesis testing and correlation coefficient testing. Several different kinds of visualizations were created including bar plots, histograms, scatter plots, pie charts, and line charts. 
+### Methodology
+1. **Data Exploration:** Explored the dataset to understand its structure and variables.
+2. **Statistical Analysis:** Utilized hypothesis testing and correlation coefficient testing to examine relationships between variables.
+3. **Visualization:** Created various visualizations including bar plots, histograms, scatter plots, pie charts, and line charts to illustrate insights from the data.
+4. **Conclusion:** Drawn conclusions based on statistical analysis and visualization findings.
 
-Through statistical analysis and visualizations, we can conclude that BMI, HbA1c levels, and blood glucose levels positively correlate with diabetes diagnosis, and BMI positively correlates with hypertension and heart disease.
+### Findings
+1. **Correlation with Diabetes:** BMI, HbA1c levels, and blood glucose levels positively correlate with diabetes diagnosis.
+2. **Correlation with Hypertension and Heart Disease:** BMI positively correlates with hypertension and heart disease.
+3. **Predictive Factors:** BMI, HbA1c levels, and blood glucose levels appear to be significant predictors of diabetes.
 
-# Source Code
-The code was sourced by Lauren Ables-Torres, Paulette Petracco, Holt Jones, and edX Bootcamps, LLC.
+### Contributors
+- Lauren Ables-Torres
+- Paulette Petracco
+- Holt Jones
+- edX Bootcamps, LLC
+
+### References
+- Dataset Source: [Kaggle - Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
