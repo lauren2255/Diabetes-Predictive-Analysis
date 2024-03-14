@@ -1,4 +1,4 @@
-## Diabetes Predictive Analysis
+# Diabetes Predictive Analysis
 
 ### Overview
 This project analyzed a diabetes prediction dataset obtained from Kaggle. The dataset includes variables such as ID, gender, age, smoking history, BMI, HbA1c level, blood glucose level, diabetes diagnosis, hypertension, and heart disease. The goal was to identify factors influencing the development of diabetes, hypertension, and heart disease, and determine which variables are most accurate at predicting diabetes.
